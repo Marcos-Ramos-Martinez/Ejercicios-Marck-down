@@ -19,7 +19,7 @@ sudo systemctl start apache2
 
 [Enlace a la página web de PCcomponentes](https://www.pccomponentes.com/)
 
-image.png)
+(image.png)
 
 
 * Hola
